@@ -48,7 +48,7 @@ Notes:
 
 ## Voiceover
 - Microsoft Edge neural TTS (`edge-tts` Python client), voice **en-US-ChristopherNeural**, rate -8%, pitch -6 Hz. It was then pitched down a further ~6% (duration preserved), EQ'd, compressed and given a light room echo in ffmpeg.
-- Script: the approved copy, used verbatim.
+- Script: the approved copy, used verbatim. In v2 the last line is "It's our turn." (user dropped "Now", t163u), and the end card reads "IT'S OUR TURN." instead of "OURS."
 - Caveat: Microsoft's terms for the Edge "Read Aloud" service are aimed at personal use. Before any paid promotion, consider re-voicing with a licensed TTS plan (e.g. Azure Speech, ElevenLabs) or a human VO artist.
 
 ## Fonts
