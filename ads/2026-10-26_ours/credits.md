@@ -53,3 +53,26 @@ Notes:
 
 ## Fonts
 - "OURS." uses Playfair Display Black (SIL Open Font License). "@vrilmag" uses Barlow Condensed Bold (SIL OFL).
+
+---
+
+## 15-second cut — vrilmag_ad_15s_v1.mp4 (2026-10-26)
+
+- **Format:** 15.0 s exactly, 1080x1920, 30 fps, H.264 High / AAC 48 kHz, about -14 LUFS. 450 frames.
+- **No voiceover.** The script is on-screen kinetic text only (Anton, OFL; @vrilmag in Barlow Condensed, OFL). Words land on the beat:
+  `ATHENS TRIED.` / `ROME TRIED.` / `THEN CAME AMERICA.` / `THEY BUILT IT.` / `THEY CROSSED IT.` / `THEY REACHED THE MOON.` / `IT'S OUR TURN.` / end card `OURS.` + `@vrilmag`. The word "Now" is not used, per the user's request.
+- **Music:** an original track synthesized in code for this cut (music15.py). It runs at 128 BPM in D major (D–Bm–G–A) with a four-on-the-floor kick, claps, hats, a pumping offbeat bass, synth-brass stabs and a 16th-note pluck arpeggio. A snare-roll and riser build leads into a drop at 11.25 s (the "OURS." end card), with a final hit at 14.06 s. No samples or third-party audio are used, so there are no licensing obligations.
+- **Imagery:** reused from the list above. All public domain or CC0 except where listed. The shots used are:
+  - School of Athens and Acropolis (Klenze);
+  - Piranesi's Colosseum and Campo Vaccino;
+  - Cole's Consummation and Desolation;
+  - Bierstadt's Rocky Mountains and Emigrants;
+  - the engrossed Declaration and Constitution p.1;
+  - Raising the Mast and Icarus (Hine, CC0);
+  - the Old-timer structural worker and Into the Jaws of Death;
+  - NASA Apollo 11 KSC footage (ignition, liftoff, EVA flag, step), the Apollo 11 launch photo and Earthrise;
+  - Mount Rushmore (NPS);
+  - the procedural flag.
+
+  The Wellcome Plato engraving (CC BY) is **not** used in this cut.
+- **Faces:** text was kept to top or bottom bands chosen per shot so it never covers a face, and the darkening behind the text is limited to the same band. This was checked on contact_sheet_15s.jpg and on the first frame of every shot, since the punch-in zoom is widest there.
